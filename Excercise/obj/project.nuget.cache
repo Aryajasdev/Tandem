@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdvqE+RcfnBu63TVVoMtTrhkUN+ZlsDqquuu/Lf495oO/Qt7gF97G3LdEyvLtywIcupo4Rlg71TiEjerB6EU1w==",
+  "success": true,
+  "projectFilePath": "E:\\Rover Solution\\Tandem Bank\\Excercise\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ParveenK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
